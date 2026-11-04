@@ -1,0 +1,13 @@
+local.properties
+.gradle/
+build/
+android/app/build/
+*.jks
+*.keystore
+*.tmp
+__pycache__/
+.env
+.env.*
+*.apk
+*.idsig
+*.log

@@ -1,0 +1,43 @@
+{
+  "count": 222,
+  "characters": 938171,
+  "errors": [
+    {
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370503.htm",
+      "reason": "正文格式或独立作者范围不符合；未入库"
+    },
+    {
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370508.htm",
+      "reason": "正文格式或独立作者范围不符合；未入库"
+    },
+    {
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381014.htm",
+      "reason": "正文格式或独立作者范围不符合；未入库"
+    },
+    {
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912.htm",
+      "reason": "正文格式或独立作者范围不符合；未入库"
+    },
+    {
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194508.htm",
+      "reason": "正文格式或独立作者范围不符合；未入库"
+    },
+    {
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490305.htm",
+      "reason": "正文格式或独立作者范围不符合；未入库"
+    },
+    {
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490421.htm",
+      "reason": "正文格式或独立作者范围不符合；未入库"
+    },
+    {
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490425.htm",
+      "reason": "正文格式或独立作者范围不符合；未入库"
+    },
+    {
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520804.htm",
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    }
+  ],
+  "time": "2026-11-03T12:58:49.626639+00:00"
+}

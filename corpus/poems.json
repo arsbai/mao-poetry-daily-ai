@@ -1,0 +1,1344 @@
+[
+  {
+    "id": "poem-df48fc27321945978abf96d6d9bd1926",
+    "title": "贺新郎·别友",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九二三年",
+    "year": "1923",
+    "text": "挥手从兹去。更那堪凄然相向，苦情重诉。眼角眉梢都似恨，热泪欲零还住。知误会前番书语。过眼滔滔云共雾，算人间知己吾和汝。人有病，天知否？今朝霜重东门路，照横塘半天残月，凄清如许。汽笛一声肠已断，从此天涯孤旅。凭割断愁丝恨缕。要似昆仑崩绝壁，又恰像台风扫寰宇。重比翼，和云翥。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=df48fc27321945978abf96d6d9bd1926&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在一九七八年九月九日《人民日报》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/202506031126369299c3dbf32011546061f11ed793b000355.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=df48fc27321945978abf96d6d9bd1926&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "1f48e51c14c06b2d7096324797bdb9b7d68a1dd307dc7669081d564926df042e",
+    "downloaded_at": "2026-11-03T13:07:30.451203+00:00"
+  },
+  {
+    "id": "poem-6929558a398e46329a31fe964206771e",
+    "title": "沁园春·长沙",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九二五年",
+    "year": "1925",
+    "text": "独立寒秋，湘江北去，橘子洲头。看万山红遍，层林尽染；漫江碧透，百舸争流。鹰击长空，鱼翔浅底，万类霜天竞自由。怅寥廓，问苍茫大地，谁主沉浮？携来百侣曾游。忆往昔峥嵘岁月稠。恰同学少年，风华正茂；书生意气，挥斥方遒。指点江山，激扬文字，粪土当年万户侯。曾记否，到中流击水，浪遏飞舟？",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=6929558a398e46329a31fe964206771e&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113345186dd24fe12490ca1f0f488ee755b5cb5b0.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=6929558a398e46329a31fe964206771e&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "1335c3ba1467f2c5ffdf237660d8bc3b10cb309d21ae4f88b61d3471ea48be41",
+    "downloaded_at": "2026-11-03T13:07:31.843162+00:00"
+  },
+  {
+    "id": "poem-ce4f3b40a5114326b7f289384287a090",
+    "title": "菩萨蛮·黄鹤楼",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九二七年春",
+    "year": "1927",
+    "text": "茫茫九派流中国，沉沉一线穿南北。烟雨莽苍苍，龟蛇锁大江。黄鹤知何去？剩有游人处。把酒酹滔滔，心潮逐浪高！",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=ce4f3b40a5114326b7f289384287a090&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603112907058b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=ce4f3b40a5114326b7f289384287a090&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "e1f17a767633c2108619a5deb77df18e7698e4c4e1dc40bb89068b7446ff7c48",
+    "downloaded_at": "2026-11-03T13:07:33.157914+00:00"
+  },
+  {
+    "id": "poem-7201eb0e3d844f7a93f0ef129794f695",
+    "title": "西江月·井冈山",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九二八年秋",
+    "year": "1928",
+    "text": "山下旌旗在望，山头鼓角相闻。敌军围困万千重，我自岿然不动。早已森严壁垒，更加众志成城。黄洋界上炮声隆，报道敌军宵遁。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=7201eb0e3d844f7a93f0ef129794f695&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/2025060311355273467f5206a8b37a27d97eea4282b61fa81.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=7201eb0e3d844f7a93f0ef129794f695&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "0f3be4a58c217391bef238c6910e0e1e9cfcff3f0425a141cf7ebb34212ed6eb",
+    "downloaded_at": "2026-11-03T13:07:34.553771+00:00"
+  },
+  {
+    "id": "poem-b121e3be1906447a90356f4a589a51cb",
+    "title": "清平乐·蒋桂战争",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九二九年秋",
+    "year": "1929",
+    "text": "风云突变，军阀重开战。洒向人间都是怨，一枕黄粱再现。红旗跃过汀江，直下龙岩上杭。收拾金瓯一片，分田分地真忙。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=b121e3be1906447a90356f4a589a51cb&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《人民文学》 一九六二年五月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113432705188488ca25002999a4514a5f0d3116e6.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=b121e3be1906447a90356f4a589a51cb&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "9ef764416fc408b37cb444acb0677c43bc09cdcdff322185532c9bea0abf228a",
+    "downloaded_at": "2026-11-03T13:07:35.933796+00:00"
+  },
+  {
+    "id": "poem-76c9a49472374f08a1ec56a78a9462fc",
+    "title": "采桑子·重阳",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九二九年十月",
+    "year": "1929",
+    "text": "人生易老天难老，岁岁重阳。今又重阳，战地黄花分外香。一年一度秋风劲，不似春光。胜似春光，寥廓江天万里霜。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=76c9a49472374f08a1ec56a78a9462fc&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《人民文学》 一九六二年五月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/202506031125536364a680126f42c615f6f0ccc5300e4f4eb.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=76c9a49472374f08a1ec56a78a9462fc&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "cfb07c7be28b5a47a9a1005b0a704971f9eed73e6b2f85f278ef8a7f5847d0d9",
+    "downloaded_at": "2026-11-03T13:07:37.363984+00:00"
+  },
+  {
+    "id": "poem-05ee4db3d6084c2cab77ab27149d1e28",
+    "title": "如梦令·元旦",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三○年一月",
+    "year": "1930",
+    "text": "宁化、清流、归化，路隘林深苔滑。今日向何方，直指武夷山下。山下山下，风展红旗如画。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=05ee4db3d6084c2cab77ab27149d1e28&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603151329135cfa603f3c9cdbfdc9358494017f3393d.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=05ee4db3d6084c2cab77ab27149d1e28&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "324187ae093b9cdcbae607ed3c4626f5ca83339e0ef650ef8620c0af9348c05b",
+    "downloaded_at": "2026-11-03T13:07:38.605386+00:00"
+  },
+  {
+    "id": "poem-efca870b31b34e2eb9d3146f658e35e4",
+    "title": "减字木兰花·广昌路上",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三○年二月",
+    "year": "1930",
+    "text": "漫天皆白，雪里行军情更迫。头上高山，风卷红旗过大关。此行何去？赣江风雪迷漫处。命令昨颁，十万工农下吉安。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=efca870b31b34e2eb9d3146f658e35e4&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《人民文学》 一九六二年五月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/202506031507382546a72b6965ede507782c021ee284f0ec4.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=efca870b31b34e2eb9d3146f658e35e4&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "ba62f5a0a0008147fddd6b7b1f915dc545b0511ed1cf99ce83d55db1e8bfb2c5",
+    "downloaded_at": "2026-11-03T13:07:40.003245+00:00"
+  },
+  {
+    "id": "poem-4c3f66c929bf47608945dcfced7506aa",
+    "title": "蝶恋花·从汀州向长沙",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三○年七月",
+    "year": "1930",
+    "text": "六月天兵征腐恶，万丈长缨要把鲲鹏缚。赣水那边红一角，偏师借重黄公略。百万工农齐踊跃，席卷江西直捣湘和鄂。国际悲歌歌一曲，狂飙为我从天落。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=4c3f66c929bf47608945dcfced7506aa&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《人民文学》 一九六二年五月号。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "839c29c82ea7a6241834384a4227aa947f2066fe9576af57970fd12dee5ded34",
+    "downloaded_at": "2026-11-03T13:07:41.352655+00:00"
+  },
+  {
+    "id": "poem-1fc0cff5039240299722529df5250143",
+    "title": "渔家傲·反第一次大‘围剿’",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三一年春",
+    "year": "1931",
+    "text": "万木霜天红烂漫，天兵怒气冲霄汉。雾满龙冈千嶂暗，齐声唤，前头捉了张辉瓒。二十万军重入赣，风烟滚滚来天半。唤起工农千百万，同心干，不周山下红旗乱。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=1fc0cff5039240299722529df5250143&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《人民文学》 一九六二年五月号。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "c3379af97a06321b70317dda4c8ebcc9b7c969f30377b7e47435937418566d24",
+    "downloaded_at": "2026-11-03T13:07:42.592702+00:00"
+  },
+  {
+    "id": "poem-e5a6da4c11f546d4a6a97af4cf3fd382",
+    "title": "渔家傲·反第二次大‘围剿’",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三一年夏",
+    "year": "1931",
+    "text": "白云山头云欲立，白云山下呼声急，枯木朽株齐努力。枪林逼，飞将军自重霄入。七百里驱十五日，赣水苍茫闽山碧，横扫千军如卷席。有人泣，为营步步嗟何及！",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=e5a6da4c11f546d4a6a97af4cf3fd382&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《人民文学》 一九六二年五月号。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "9f82be76321d3badb10316e0eb4d024be922d1e24b77f1e22a8b76467ce03e48",
+    "downloaded_at": "2026-11-03T13:07:43.867264+00:00"
+  },
+  {
+    "id": "poem-dfe724d6ca134c98a33476c631fa44a6",
+    "title": "菩萨蛮·大柏地",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三三年夏",
+    "year": "1933",
+    "text": "赤橙黄绿青蓝紫，谁持彩练当空舞？雨后复斜阳，关山阵阵苍。当年鏖战急，弹洞前村壁。装点此关山，今朝更好看。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=dfe724d6ca134c98a33476c631fa44a6&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603112847829b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=dfe724d6ca134c98a33476c631fa44a6&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "c90f1b3444061c5a5c8011994bcb83af3e4d987cfd901f1d8e69f6a8db58ce8a",
+    "downloaded_at": "2026-11-03T13:07:45.149117+00:00"
+  },
+  {
+    "id": "poem-cdd6be9ee165400bbdb1821ce60c91c5",
+    "title": "清平乐·会昌",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三四年夏",
+    "year": "1934",
+    "text": "东方欲晓，莫道君行早。踏遍青山人未老，风景这边独好。会昌城外高峰，颠连直接东溟。战士指看南粤，更加郁郁葱葱。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=cdd6be9ee165400bbdb1821ce60c91c5&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113406830b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=cdd6be9ee165400bbdb1821ce60c91c5&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "e264d51175dcbfaf846f7104b962a3566362d37a38237f95fd9de1635e7a0a12",
+    "downloaded_at": "2026-11-03T13:07:46.529157+00:00"
+  },
+  {
+    "id": "poem-ba987728fbf5435f8ece56a2a771b7b2",
+    "title": "十六字令三首",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三四年到一九三五年",
+    "year": "1934",
+    "text": "山，快马加鞭未下鞍。惊回首，离天三尺三。其二山，倒海翻江卷巨澜。奔腾急，万马战犹酣。其三山，刺破青天锷未残。天欲堕，赖以拄其间。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=ba987728fbf5435f8ece56a2a771b7b2&base=KRM_1741159449741",
+    "edition_note": "这三首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113513887b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=ba987728fbf5435f8ece56a2a771b7b2&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "612ceff457049eeab87077fd9bf435a7f9495b94c69c36c48e1315742e6eaa87",
+    "downloaded_at": "2026-11-03T13:07:47.776158+00:00"
+  },
+  {
+    "id": "poem-ef0fed02056147a2b8ba1f47deabe6fd",
+    "title": "忆秦娥·娄山关",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三五年二月",
+    "year": "1935",
+    "text": "西风烈，长空雁叫霜晨月。霜晨月，马蹄声碎，喇叭声咽。雄关漫道真如铁，而今迈步从头越。从头越，苍山如海，残阳如血。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=ef0fed02056147a2b8ba1f47deabe6fd&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113624370437b9dac0fd4055d30091a02a2947f90.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=ef0fed02056147a2b8ba1f47deabe6fd&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "978efae8f31fcb850d13ac2f3d8c260384a6fd1d0952db92afe3688afdfa109f",
+    "downloaded_at": "2026-11-03T13:07:49.137092+00:00"
+  },
+  {
+    "id": "poem-3d8c1b1c9a0b44c5b495ac0f539f7baf",
+    "title": "七律·长征",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三五年十月",
+    "year": "1935",
+    "text": "红军不怕远征难，万水千山只等闲。五岭逶迤腾细浪，乌蒙磅礴走泥丸。金沙水拍云崖暖，大渡桥横铁索寒。更喜岷山千里雪，三军过后尽开颜。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=3d8c1b1c9a0b44c5b495ac0f539f7baf&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/2025060311322245376d15160d51482a26dfd4e18c135c868.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=3d8c1b1c9a0b44c5b495ac0f539f7baf&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "799425aa07af69565e6847d3ab68df5a8a6e57adfa577f50484171898f7abf5e",
+    "downloaded_at": "2026-11-03T13:07:50.453193+00:00"
+  },
+  {
+    "id": "poem-43a4dc45729c40ef8c754eeafd659270",
+    "title": "念奴娇·昆仑",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三五年十月",
+    "year": "1935",
+    "text": "横空出世，莽昆仑，阅尽人间春色。飞起玉龙三百万，搅得周天寒彻。夏日消溶，江河横溢，人或为鱼鳖。千秋功罪，谁人曾与评说？而今我谓昆仑：不要这高，不要这多雪。安得倚天抽宝剑，把汝裁为三截？一截遗欧，一截赠美，一截还东国。太平世界，环球同此凉热。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=43a4dc45729c40ef8c754eeafd659270&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603150931593c77c6a555da17938a41c6b81c6dcf938.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=43a4dc45729c40ef8c754eeafd659270&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "18630f4e6e0718987e89ce7b2d7f66dc88d8a2facfa6507fa790020fafcf26ba",
+    "downloaded_at": "2026-11-03T13:07:51.856751+00:00"
+  },
+  {
+    "id": "poem-e8b71231d4534870bb6ea693314eec5e",
+    "title": "清平乐·六盘山",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三五年十月",
+    "year": "1935",
+    "text": "天高云淡，望断南飞雁。不到长城非好汉，屈指行程二万。六盘山上高峰，红旗漫卷西风。今日长缨在手，何时缚住苍龙？",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=e8b71231d4534870bb6ea693314eec5e&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/2025060311345448722a76beb227576ece15b003d3da966d8.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=e8b71231d4534870bb6ea693314eec5e&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "d79c154ae35e02e92fb92c885e747bccb4f4a65b15364037dcfbb8fc9b4d1cca",
+    "downloaded_at": "2026-11-03T13:07:53.113959+00:00"
+  },
+  {
+    "id": "poem-0faae379fdfd40198822265ea284727e",
+    "title": "沁园春·雪",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三六年二月",
+    "year": "1936",
+    "text": "北国风光，千里冰封，万里雪飘。望长城内外，惟余莽莽；大河上下，顿失滔滔。山舞银蛇，原驰蜡象，欲与天公试比高。须晴日，看红装素裹，分外妖娆。江山如此多娇，引无数英雄竞折腰。惜秦皇汉武，略输文采；唐宗宋祖，稍逊风骚。一代天骄，成吉思汗，只识弯弓射大雕。俱往矣，数风流人物，还看今朝。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=0faae379fdfd40198822265ea284727e&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。在这以前， 一九四五年十月，毛泽东在重庆曾把这首词书赠柳亚 子 （参看《七律 ·和柳亚子先生》〔索句渝州叶正黄〕 注）， 因而被重庆《新民报晚刊》在十一月十四日传抄发 表， 以后别的报纸陆续转载，但多有讹误，不足为据。一 九五一年一月八日《文汇报附刊》， 曾将作者书赠柳亚子的这首词的墨迹制版刊出。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/2025060311330654050c16892cc53f4fd426757e4cfcf6e1b.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=0faae379fdfd40198822265ea284727e&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "c4773e4bfcce5cc28ea843bb0538cf8bd106d672a4ae5e3cb0a2769fcca17a2f",
+    "downloaded_at": "2026-11-03T13:07:54.498111+00:00"
+  },
+  {
+    "id": "poem-600d9e8061cc41c3841b3154fac2e201",
+    "title": "七律·人民解放军占领南京",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九四九年四月",
+    "year": "1949",
+    "text": "钟山风雨起苍黄，百万雄师过大江。虎踞龙盘今胜昔，天翻地覆慨而慷。宜将剩勇追穷寇，不可沽名学霸王。天若有情天亦老，人间正道是沧桑。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=600d9e8061cc41c3841b3154fac2e201&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在人民文学出版社一九六三年十二月版《毛主席诗词》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113201322b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=600d9e8061cc41c3841b3154fac2e201&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "5c322d811e0908ca0c099bf0f49ef8ae56f61b59dca9fe9465cb6547e7967d39",
+    "downloaded_at": "2026-11-03T13:07:55.836432+00:00"
+  },
+  {
+    "id": "poem-4a5d42f255d641af9435063ef3259748",
+    "title": "七律·和柳亚子先生",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九四九年四月二十九日",
+    "year": "1949",
+    "text": "饮茶粤海未能忘，索句渝州叶正黄。三十一年还旧国，落花时节读华章。牢骚太盛防肠断，风物长宜放眼量。莫道昆明池水浅，观鱼胜过富春江。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=4a5d42f255d641af9435063ef3259748&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113126277b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=4a5d42f255d641af9435063ef3259748&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "151334fe05374019a5cbe6472eb21667fc1ef0f24a4a2f7bd0121a1db7426009",
+    "downloaded_at": "2026-11-03T13:07:57.137065+00:00"
+  },
+  {
+    "id": "poem-b0a96eca381a4120b29bea7f9daba567",
+    "title": "浣溪沙·和柳亚子先生",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五○年十月",
+    "year": "1950",
+    "text": "一九五○年国庆观剧，柳亚子先生即席赋浣溪沙，因步其韵奉和。长夜难明赤县天，百年魔怪舞翩跹，人民五亿不团圆。一唱雄鸡天下白，万方乐奏有于阗，诗人兴会更无前。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=b0a96eca381a4120b29bea7f9daba567&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603112717655b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=b0a96eca381a4120b29bea7f9daba567&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "f44afabf9d1bebf61f6962ad31e69dc406e37bc5f9d36f182e31a99c03ba254c",
+    "downloaded_at": "2026-11-03T13:07:58.398574+00:00"
+  },
+  {
+    "id": "poem-91156084d357433084d60ac797ff6250",
+    "title": "浪淘沙·北戴河",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五四年夏",
+    "year": "1954",
+    "text": "大雨落幽燕，白浪滔天，秦皇岛外打鱼船。一片汪洋都不见，知向谁边？往事越千年，魏武挥鞭，东临碣石有遗篇。萧瑟秋风今又是，换了人间。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=91156084d357433084d60ac797ff6250&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603112737409b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=91156084d357433084d60ac797ff6250&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "f1605fb0177a3730982047e3bd59642b9caa7eb43d2607cbd91ab4215b186acf",
+    "downloaded_at": "2026-11-03T13:07:59.750082+00:00"
+  },
+  {
+    "id": "poem-52b933b641be488ab72dfaa0ec17e0ff",
+    "title": "水调歌头·游泳",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五六年六月",
+    "year": "1956",
+    "text": "才饮长沙水，又食武昌鱼。万里长江横渡，极目楚天舒。不管风吹浪打，胜似闲庭信步，今日得宽馀。子在川上曰：逝者如斯夫！风樯动，龟蛇静，起宏图。一桥飞架南北，天堑变通途。更立西江石壁，截断巫山云雨，高峡出平湖。神女应无恙，当惊世界殊。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=52b933b641be488ab72dfaa0ec17e0ff&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/2025060311353704258e38ff0a5ad6b3834fdaded259a0842.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=52b933b641be488ab72dfaa0ec17e0ff&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "79bbb9770e76bf73146a8217211136ad47fce80c74b9151f391b8587fedf8510",
+    "downloaded_at": "2026-11-03T13:08:01.023785+00:00"
+  },
+  {
+    "id": "poem-01030cad0d1b4c33b39ade5494522f96",
+    "title": "蝶恋花·答李淑一",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五七年五月十一日",
+    "year": "1957",
+    "text": "我失骄杨君失柳，杨柳轻飏直上重霄九。问讯吴刚何所有，吴刚捧出桂花酒。寂寞嫦娥舒广袖，万里长空且为忠魂舞。忽报人间曾伏虎，泪飞顿作倾盆雨。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=01030cad0d1b4c33b39ade5494522f96&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在一九五八年一月一日湖南师范学院院刊《湖南师院》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/202506031126140138be38f9fc1949b1702801af6a2b587fe.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=01030cad0d1b4c33b39ade5494522f96&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "aa69a33edea4feb915d63b1498b1680b49ddde5664d767cdff03ea90df67907c",
+    "downloaded_at": "2026-11-03T13:08:02.304986+00:00"
+  },
+  {
+    "id": "poem-48a01ab21f4342339c3e132188613870",
+    "title": "七律二首·送瘟神",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五八年七月一日",
+    "year": "1958",
+    "text": "读六月三十日《人民日报》，余江县消灭了血吸虫。浮想联翩，夜不能寐。微风拂煦，旭日临窗。遥望南天，欣然命笔。绿水青山枉自多，华佗无奈小虫何！千村薜荔人遗矢，万户萧疏鬼唱歌。坐地日行八万里，巡天遥看一千河。牛郎欲问瘟神事，一样悲欢逐逝波。其二春风杨柳万千条，六亿神州尽舜尧。红雨随心翻作浪，青山着意化为桥。天连五岭银锄落，地动三河铁臂摇。借问瘟君欲何往，纸船明烛照天烧。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=48a01ab21f4342339c3e132188613870&base=KRM_1741159449741",
+    "edition_note": "这两首诗最早发表在一九五八年十月三日《人民日报》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113239044377e9f56e387b64f3de7f7111723fa20.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=48a01ab21f4342339c3e132188613870&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "20dc889e9708194e93f241f6686aa2dcb5d59511e37c1a7ec250a71e1961489d",
+    "downloaded_at": "2026-11-03T13:08:03.547552+00:00"
+  },
+  {
+    "id": "poem-c525489cc33a433b847b0658f3675cf3",
+    "title": "七律·到韶山",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五九年六月",
+    "year": "1959",
+    "text": "一九五九年六月二十五日到韶山。离别这个地方已有三十二周年了。别梦依稀咒逝川，故园三十二年前。红旗卷起农奴戟，黑手高悬霸主鞭。为有牺牲多壮志，敢教日月换新天。喜看稻菽千重浪，遍地英雄下夕烟。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=c525489cc33a433b847b0658f3675cf3&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在人民文学出版社一九六三年十二月版《毛主席诗词》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113045626b14427625c6184b3c064738fada417e0.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=c525489cc33a433b847b0658f3675cf3&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "a1e46eb03b4b64e548656e80eec57ad82225f79bd278c22eadee80135b1da542",
+    "downloaded_at": "2026-11-03T13:08:04.945291+00:00"
+  },
+  {
+    "id": "poem-25d1c41aad854d6a8c2e5d23075f83d2",
+    "title": "七律·登庐山",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五九年七月一日",
+    "year": "1959",
+    "text": "一山飞峙大江边，跃上葱茏四百旋。冷眼向洋看世界，热风吹雨洒江天。云横九派浮黄鹤，浪下三吴起白烟。陶令不知何处去，桃花源里可耕田？",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=25d1c41aad854d6a8c2e5d23075f83d2&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在人民文学出版社一九六三年十二月版《毛主席诗词》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603151156120f9662da6198bc827164e19a67803b61d.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=25d1c41aad854d6a8c2e5d23075f83d2&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "5e8195ed2ac1785fb836f5786e82eb70bbb5f7745526af6e8160f874bb20b95a",
+    "downloaded_at": "2026-11-03T13:08:06.281768+00:00"
+  },
+  {
+    "id": "poem-53b7fb0300844c99b59ca5f34edb320f",
+    "title": "七绝·为女民兵题照",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六一年二月",
+    "year": "1961",
+    "text": "飒爽英姿五尺枪，曙光初照演兵场。中华儿女多奇志，不爱红装爱武装。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=53b7fb0300844c99b59ca5f34edb320f&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在人民文学出版社一九六三年十二月版《毛主席诗词》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113011992327f5c5a51395faa39a3973052875d76.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=53b7fb0300844c99b59ca5f34edb320f&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "5d5a1b6574e6d597da769afba1cd8ff169dd0bf1677cc454cb3a668a4d1d47ed",
+    "downloaded_at": "2026-11-03T13:08:07.643724+00:00"
+  },
+  {
+    "id": "poem-350947b8bb564903929c76f31796ec09",
+    "title": "七律·答友人",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六一年",
+    "year": "1961",
+    "text": "九嶷山上白云飞，帝子乘风下翠微。斑竹一枝千滴泪，红霞万朵百重衣。洞庭波涌连天雪，长岛人歌动地诗。我欲因之梦寥廓，芙蓉国里尽朝晖。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=350947b8bb564903929c76f31796ec09&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在人民文学出版社一九六三年十二月版《毛主席诗词》。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "8e0c213c7223dab758056c9c9988bf20d320d9729f09babe13397ddda86d9013",
+    "downloaded_at": "2026-11-03T13:08:08.950870+00:00"
+  },
+  {
+    "id": "poem-7df49cb5eeae40189223d86a2a921296",
+    "title": "七绝·为李进同志题所摄庐山仙人洞照",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六一年九月九日",
+    "year": "1961",
+    "text": "暮色苍茫看劲松，乱云飞渡仍从容。天生一个仙人洞，无限风光在险峰。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=7df49cb5eeae40189223d86a2a921296&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在人民文学出版社一九六三年十二月版《毛主席诗词》。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "e3420398e73a90a28dc28a48a2dfec316292a81441739dad402b547724f860ae",
+    "downloaded_at": "2026-11-03T13:08:10.188729+00:00"
+  },
+  {
+    "id": "poem-0f70d7f62c614b34a260c9b05289d39a",
+    "title": "七律·和郭沫若同志",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六一年十一月十七日",
+    "year": "1961",
+    "text": "一从大地起风雷，便有精生白骨堆。僧是愚氓犹可训，妖为鬼蜮必成灾。金猴奋起千钧棒，玉宇澄清万里埃。今日欢呼孙大圣，只缘妖雾又重来。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=0f70d7f62c614b34a260c9b05289d39a&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在人民文学出版社一九六三年十二月版《毛主席诗词》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/202506031512323627cefe89f93717f9d23ea53862c8239b0.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=0f70d7f62c614b34a260c9b05289d39a&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "589a3641c19c0ec7a47eb375867a55a34a115d922700eef0ef45b71a2211a5fa",
+    "downloaded_at": "2026-11-03T13:08:11.464755+00:00"
+  },
+  {
+    "id": "poem-9b5fb201b76448c9bbd856eb26553976",
+    "title": "卜算子·咏梅",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六一年十二月",
+    "year": "1961",
+    "text": "读陆游咏梅词，反其意而用之。风雨送春归，飞雪迎春到。已是悬崖百丈冰，犹有花枝俏。俏也不争春，只把春来报。待到山花烂漫时，她在丛中笑。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=9b5fb201b76448c9bbd856eb26553976&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在人民文学出版社一九六三年十二月版《毛主席诗词》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/2025060315060505870a21c58bd970add0fd2590765d049cf.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=9b5fb201b76448c9bbd856eb26553976&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "163150d780cc02ad6983f71a6c782b27a100116e84c82af0ea71911a4389a770",
+    "downloaded_at": "2026-11-03T13:08:12.727886+00:00"
+  },
+  {
+    "id": "poem-4b82ba9d79ce4ed39d71a3703eda7254",
+    "title": "七律·冬云",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六二年十二月二十六日",
+    "year": "1962",
+    "text": "雪压冬云白絮飞，万花纷谢一时稀。高天滚滚寒流急，大地微微暖气吹。独有英雄驱虎豹，更无豪杰怕熊罴。梅花欢喜漫天雪，冻死苍蝇未足奇。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=4b82ba9d79ce4ed39d71a3703eda7254&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在人民文学出版社一九六三年十二月版《毛主席诗词》。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "9ee4b487cdd2b2b8d67fe2fd68764b9541de9af988a4258fb82007ba9908d96a",
+    "downloaded_at": "2026-11-03T13:08:13.993612+00:00"
+  },
+  {
+    "id": "poem-8b8f07075b0347a0a4c4ac3a3e82a1e1",
+    "title": "满江红·和郭沫若同志",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六三年一月九日",
+    "year": "1963",
+    "text": "小小寰球，有几个苍蝇碰壁。嗡嗡叫，几声凄厉，几声抽泣。蚂蚁缘槐夸大国，蚍蜉撼树谈何易。正西风落叶下长安，飞鸣镝。多少事，从来急；天地转，光阴迫。一万年太久，只争朝夕。四海翻腾云水怒，五洲震荡风雷激。要扫除一切害人虫，全无敌。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=8b8f07075b0347a0a4c4ac3a3e82a1e1&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在人民文学出版社一九六三年十二月版《毛主席诗词》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603112812196b4340b0ecd9463c8ee6c53e49ae0a39c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=8b8f07075b0347a0a4c4ac3a3e82a1e1&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "198f5ccb88abe45df43e035d4c66d5927894b9e74381f3f1a9e306ec87805dcd",
+    "downloaded_at": "2026-11-03T13:08:15.291814+00:00"
+  },
+  {
+    "id": "poem-6c38be6686b442af94e354e88269214b",
+    "title": "七律·吊罗荣桓同志",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六三年十二月",
+    "year": "1963",
+    "text": "记得当年草上飞，红军队里每相违。长征不是难堪日，战锦方为大问题。斥鷃每闻欺大鸟，昆鸡长笑老鹰非。君今不幸离人世，国有疑难可问谁？",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=6c38be6686b442af94e354e88269214b&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在一九七八年九月九日《人民日报》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113106804b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=6c38be6686b442af94e354e88269214b&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "3ab2d3008c5010cf29b7a111daf350b0899cdfc4f093d604f5980f4cf7049842",
+    "downloaded_at": "2026-11-03T13:08:16.551826+00:00"
+  },
+  {
+    "id": "poem-115767835ea54c7e9988efe66a534779",
+    "title": "贺新郎·读史",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六四年春",
+    "year": "1964",
+    "text": "人猿相揖别。只几个石头磨过，小儿时节。铜铁炉中翻火焰，为问何时猜得，不过几千寒热。人世难逢开口笑，上疆场彼此弯弓月。流遍了，郊原血。一篇读罢头飞雪，但记得斑斑点点，几行陈迹。五帝三皇神圣事，骗了无涯过客。有多少风流人物？盗跖庄屩流誉后，更陈王奋起挥黄钺。歌未竟，东方白。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=115767835ea54c7e9988efe66a534779&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《红旗》 一九七八年第九期。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/202506031507010732920e1ed38e87349b41e8658ca801317.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=115767835ea54c7e9988efe66a534779&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "2f7011d72eba890cf4951bf54526a08a1170888a6e53ed8d879847e41309a3f8",
+    "downloaded_at": "2026-11-03T13:08:17.864594+00:00"
+  },
+  {
+    "id": "poem-e38c9bdbc83a474fb0ba18c43bb5a0cf",
+    "title": "水调歌头·重上井冈山",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六五年五月",
+    "year": "1965",
+    "text": "久有凌云志，重上井冈山。千里来寻故地，旧貌变新颜。到处莺歌燕舞，更有潺潺流水，高路入云端。过了黄洋界，险处不须看。风雷动，旌旗奋，是人寰。三十八年过去，弹指一挥间。可上九天揽月，可下五洋捉鳖，谈笑凯歌还。世上无难事，只要肯登攀。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=e38c9bdbc83a474fb0ba18c43bb5a0cf&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九七六年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/202506031513487000d97316bf08787fd38aa4ee5fb956dec.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=e38c9bdbc83a474fb0ba18c43bb5a0cf&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "ffff21337c4a0e2a44af4b203f2bea9b7a325115f1526f756841bcd12ae5a359",
+    "downloaded_at": "2026-11-03T13:08:19.112450+00:00"
+  },
+  {
+    "id": "poem-82c6876188bb4f2c9d8abeaaac5890ea",
+    "title": "念奴娇·鸟儿问答",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六五年秋",
+    "year": "1965",
+    "text": "鲲鹏展翅，九万里，翻动扶摇羊角。背负青天朝下看，都是人间城郭。炮火连天，弹痕遍地，吓倒蓬间雀。怎么得了，哎呀我要飞跃。借问君去何方，雀儿答道：有仙山琼阁。不见前年秋月朗，订了三家条约。还有吃的，土豆烧熟了，再加牛肉。不须放屁，试看天地翻覆。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=82c6876188bb4f2c9d8abeaaac5890ea&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《诗刊》 一九七六年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603151039863b5cf1b5d968d183e0368fc03493bc1e7.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=82c6876188bb4f2c9d8abeaaac5890ea&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "3173f9196013c6cf1265d0ce1d05b8b71b751329b81c25ce6e80f9d16ab9cb68",
+    "downloaded_at": "2026-11-03T13:08:20.384735+00:00"
+  },
+  {
+    "id": "poem-17f8c507ab344371af12cd7fbce5c6da",
+    "title": "五古·挽易昌陶",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九一五年五月",
+    "year": "1915",
+    "text": "去去思君深，思君君不来。愁杀芳年友，悲叹有馀哀。衡阳雁声彻，湘滨春溜回。感物念所欢，踯躅南城隈。城隈草萋萋，涔泪侵双题。采采馀孤景，日落衡云西。方期沆瀁游，零落匪所思。永诀从今始，午夜惊鸣鸡。鸣鸡一声唱，汗漫东皋上。冉冉望君来，握手珠眶涨。关山蹇骥足，飞飙拂灵帐。我怀郁如焚，放歌倚列嶂。列嶂青且茜，愿言试长剑。东海有岛夷，北山尽仇怨。荡涤谁氏子，安得辞浮贱。子期竟早亡，牙琴从此绝。琴绝最伤情，朱华春不荣。后来有千日，谁与共平生？望灵荐杯酒，惨淡看铭旌。惆怅中何寄，江天水一泓。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=17f8c507ab344371af12cd7fbce5c6da&base=KRM_1741159449741",
+    "edition_note": "这首诗作者抄录在一九一五年六月二十五日致湘生的信中， 随信最早发表在湖南出版社一九九○年七月版《毛泽东早期文 稿》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603151416467115fe6a66884f96be5216e22278016d0.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=17f8c507ab344371af12cd7fbce5c6da&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "6421b55829803506bf55f7c20e46395165dfca8cf4ff285519d4945bf61ea979",
+    "downloaded_at": "2026-11-03T13:08:21.634918+00:00"
+  },
+  {
+    "id": "poem-38fd21134cc04b36a5614732583dff02",
+    "title": "七古·送纵宇一郎东行",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九一八年四月",
+    "year": "1918",
+    "text": "云开衡岳积阴止，天马凤凰春树里。年少峥嵘屈贾才，山川奇气曾钟此。君行吾为发浩歌，鲲鹏击浪从兹始。洞庭湘水涨连天，艟艨巨舰直东指。无端散出一天愁，幸被东风吹万里。丈夫何事足萦怀，要将宇宙看稊米。沧海横流安足虑，世事纷纭从君理。管却自家身与心，胸中日月常新美。名世于今五百年，诸公碌碌皆馀子。平浪宫前友谊多，崇明对马衣带水。东瀛濯剑有书还，我返自崖君去矣。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=38fd21134cc04b36a5614732583dff02&base=KRM_1741159449741",
+    "edition_note": "这首诗最早非正式地发表在一九七九年《党史研究资料》第十期，是由罗章龙在《回忆新民学会 （由湖南到北京）》 一文中提供的。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "454a1ef8ed34ca0137eb719f3688dd2b8cc582dd49dd5e808cd21b712214ef9b",
+    "downloaded_at": "2026-11-03T13:08:22.885140+00:00"
+  },
+  {
+    "id": "poem-6a1bd9a09ef4488dbbaf9a98707979fc",
+    "title": "虞美人·枕上",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九二一年",
+    "year": "1921",
+    "text": "堆来枕上愁何状，江海翻波浪。夜长天色总难明，寂寞披衣起坐数寒星。晓来百念都灰尽，剩有离人影。一钩残月向西流，对此不抛眼泪也无由。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=6a1bd9a09ef4488dbbaf9a98707979fc&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在一九九四年十二月二十六日《人民日报》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603151503745e5575ff59e071489f550fae2d93ecd2a.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=6a1bd9a09ef4488dbbaf9a98707979fc&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "89389d70d3af62b25e7ff6d639329f3a6af51a9abf84268d6d12a2c29c63503c",
+    "downloaded_at": "2026-11-03T13:08:24.147200+00:00"
+  },
+  {
+    "id": "poem-c4828d2319904275b578314a911e67f7",
+    "title": "西江月·秋收起义",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九二七年",
+    "year": "1927",
+    "text": "军叫工农革命，旗号镰刀斧头。匡庐一带不停留，要向潇湘直进。地主重重压迫，农民个个同仇。秋收时节暮云愁，霹雳一声暴动。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=c4828d2319904275b578314a911e67f7&base=KRM_1741159449741",
+    "edition_note": "这首词最早非正式地发表在《解放军文艺》 一九五七年七月号，是在一篇评论毛泽东诗词的文章中提供的。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "5e0223cb855663614205c1de31f90fb87a2a34f5c2465cfe63832b38f7cf0bb1",
+    "downloaded_at": "2026-11-03T13:08:25.485261+00:00"
+  },
+  {
+    "id": "poem-f745aa7c64bc4866aa545176ee249dfa",
+    "title": "六言诗·给彭德怀同志",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三五年十月",
+    "year": "1935",
+    "text": "山高路远坑深，大军纵横驰奔。谁敢横刀立马？唯我彭大将军！",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=f745aa7c64bc4866aa545176ee249dfa&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在一九四七年八月一 日《战友报》（冀鲁豫军区政治部主办）。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "26da273c884e2c8d1df5758048acb0916df0e0cfd41320797e7769457f27f2ae",
+    "downloaded_at": "2026-11-03T13:08:26.752472+00:00"
+  },
+  {
+    "id": "poem-c486d4e8ac6b439c808372c4c892fd3d",
+    "title": "临江仙·给丁玲同志",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三六年十二月",
+    "year": "1936",
+    "text": "壁上红旗飘落照，西风漫卷孤城。保安人物一时新。洞中开宴会，招待出牢人。纤笔一枝谁与似？三千毛瑟精兵。阵图开向陇山东。昨天文小姐，今日武将军。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=c486d4e8ac6b439c808372c4c892fd3d&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在《新观察》 一九八○年第七期。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603150820653692e582d0f0f04cca3f46305d9a3027b.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=c486d4e8ac6b439c808372c4c892fd3d&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "3e7087e06b70e0b125372eac47a1ce302ddeca9dd8fdeee69d0929cff906e5fc",
+    "downloaded_at": "2026-11-03T13:08:27.995479+00:00"
+  },
+  {
+    "id": "poem-c1510b04efb34b7082723f301bb777dd",
+    "title": "五律·挽戴安澜将军",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九四三年三月",
+    "year": "1943",
+    "text": "外侮需人御，将军赋采薇。师称机械化，勇夺虎罴威。浴血东瓜守，驱倭棠吉归。沙场竟殒命，壮志也无违。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=c1510b04efb34b7082723f301bb777dd&base=KRM_1741159449741",
+    "edition_note": "这首诗根据一九四三年戴安澜将军追悼会挽联挽诗登记册刊印。最早非正式地发表在一九八三年十二月二十八日《人民政协报》，是在一篇诠释这首诗典故的文章中提供的。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "19bf4a12b4adb28bca789579a932f54fc0f6a5150a6f843fee63ed0117c9b365",
+    "downloaded_at": "2026-11-03T13:08:29.291555+00:00"
+  },
+  {
+    "id": "poem-1cee191010c64068af64c35acfce9c0e",
+    "title": "五律·张冠道中",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九四七年",
+    "year": "1947",
+    "text": "朝雾弥琼宇，征马嘶北风。露湿尘难染，霜笼鸦不惊。戎衣犹铁甲，须眉等银冰。踟蹰张冠道，恍若塞上行。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=1cee191010c64068af64c35acfce9c0e&base=KRM_1741159449741",
+    "edition_note": "这首诗根据抄件刊印。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "dd5ef57b9cb1fa6be06c9cb396278293305bec5909c1662cc363ea5b96740264",
+    "downloaded_at": "2026-11-03T13:08:30.566442+00:00"
+  },
+  {
+    "id": "poem-6616e5dbdb594321ad4c39edc8b3e0e1",
+    "title": "五律·喜闻捷报",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九四七年",
+    "year": "1947",
+    "text": "中秋步运河上，闻西北野战军收复蟠龙作。秋风度河上，大野入苍穹。佳令随人至，明月傍云生。故里鸿音绝，妻儿信未通。满宇频翘望，凯歌奏边城。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=6616e5dbdb594321ad4c39edc8b3e0e1&base=KRM_1741159449741",
+    "edition_note": "这首诗根据抄件刊印。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "cc9b36b0e970544c8421717bc18919b18c625a09a75f5084fcc009c79f0bb201",
+    "downloaded_at": "2026-11-03T13:08:31.804708+00:00"
+  },
+  {
+    "id": "poem-ebfaf3f6938449e58ed695a6d38bf851",
+    "title": "浣溪沙·和柳亚子先生",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五○年十一月",
+    "year": "1950",
+    "text": "颜斶齐王各命前，多年矛盾廓无边，而今一扫纪新元。最喜诗人高唱至，正和前线捷音联，妙香山上战旗妍。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=ebfaf3f6938449e58ed695a6d38bf851&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在人民文学出版社一九八六年九月版《毛泽东诗词选》。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "a6032a383304f61bfe700782611065a2c186875a9a3bc8562cdf2baacbf53541",
+    "downloaded_at": "2026-11-03T13:08:33.044709+00:00"
+  },
+  {
+    "id": "poem-de9a056b75ea4e4ea1891dd1505a22ad",
+    "title": "七律·和周世钊同志",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五五年十月",
+    "year": "1955",
+    "text": "春江浩荡暂徘徊，又踏层峰望眼开。风起绿洲吹浪去，雨从青野上山来。尊前谈笑人依旧，域外鸡虫事可哀。莫叹韶华容易逝，卅年仍到赫曦台。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=de9a056b75ea4e4ea1891dd1505a22ad&base=KRM_1741159449741",
+    "edition_note": "这首诗作者抄录在一九五五年十月四日致周世钊的信中， 随信最早发表在人民出版社一九八三年十二月版《毛泽东书信选集》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/2025060315125452879c78c0768522100a0bb47d173ec56a7.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=de9a056b75ea4e4ea1891dd1505a22ad&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "77baf37ecfb815fd76ea26a52c962ed16be32c575524ad03a19fb34332d26976",
+    "downloaded_at": "2026-11-03T13:08:34.281579+00:00"
+  },
+  {
+    "id": "poem-3506f2646a954bdd80df100a9f99c850",
+    "title": "五律·看山",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五五年",
+    "year": "1955",
+    "text": "三上北高峰，杭州一望空。飞凤亭边树，桃花岭上风。热来寻扇子，冷去对佳人。一片飘飖下，欢迎有晚鹰。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=3506f2646a954bdd80df100a9f99c850&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在《党的文献》 一九九三年第六期。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/202506031514452916164a1c7b0e922b98842db854341e491.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=3506f2646a954bdd80df100a9f99c850&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "44e34dac8329b8632ce85964c5f5c39c617784de34844c4902efa2f1c2f0e611",
+    "downloaded_at": "2026-11-03T13:08:35.522370+00:00"
+  },
+  {
+    "id": "poem-18e8adc0218a4022a7188e428116572c",
+    "title": "七绝·莫干山",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五五年",
+    "year": "1955",
+    "text": "翻身复进七人房，回首峰峦入莽苍。四十八盘才走过，风驰又已到钱塘。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=18e8adc0218a4022a7188e428116572c&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在《党的文献》 一九九三年第六期。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/202506031511025188795fa2a449fe3ce479e2dfc35e1dfe1.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=18e8adc0218a4022a7188e428116572c&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "099bfa071fc013372958e2644aa485aab65d8dd29e6f1497f0bd3b1b88cc86a8",
+    "downloaded_at": "2026-11-03T13:08:37.104634+00:00"
+  },
+  {
+    "id": "poem-b505b9daf12049fbaafadf3050c78299",
+    "title": "七绝·五云山",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五五年",
+    "year": "1955",
+    "text": "五云山上五云飞，远接群峰近拂堤。若问杭州何处好，此中听得野莺啼。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=b505b9daf12049fbaafadf3050c78299&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在《党的文献》 一九九三年第六期。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/202506031511267190b2e26260fd01621246392e72cb2b265.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=b505b9daf12049fbaafadf3050c78299&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "5235b9acb10402ad558eb13a217de062a8f416a5f3e5a507ae75912762c4865f",
+    "downloaded_at": "2026-11-03T13:08:38.399027+00:00"
+  },
+  {
+    "id": "poem-f51324be8c2843c0a09850e21446121d",
+    "title": "七绝·观潮",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五七年九月",
+    "year": "1957",
+    "text": "千里波涛滚滚来，雪花飞向钓鱼台。人山纷赞阵容阔，铁马从容杀敌回。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=f51324be8c2843c0a09850e21446121d&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在《党的文献》 一九九三年第六期。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "30b258b0b2128c1af02018f2c0c36961429eba8e810d035f51b4b7e1f68203df",
+    "downloaded_at": "2026-11-03T13:08:39.659243+00:00"
+  },
+  {
+    "id": "poem-7c471e740ba646bdb76c18e4282763ef",
+    "title": "七绝·刘蕡",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五八年",
+    "year": "1958",
+    "text": "千载长天起大云，中唐俊伟有刘蕡。孤鸿铩羽悲鸣镝，万马齐喑叫一声。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=7c471e740ba646bdb76c18e4282763ef&base=KRM_1741159449741",
+    "edition_note": "这首诗根据作者审定的抄件刊印。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "ba25d7c440b45f49b00ac042c56cce88500a6b4ac88801a66280dbd71846bc01",
+    "downloaded_at": "2026-11-03T13:08:40.938791+00:00"
+  },
+  {
+    "id": "poem-f84f5874090943e187f96d4ad59e5112",
+    "title": "七绝·屈原",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六一年秋",
+    "year": "1961",
+    "text": "屈子当年赋楚骚，手中握有杀人刀。艾萧太盛椒兰少，一跃冲向万里涛。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=f84f5874090943e187f96d4ad59e5112&base=KRM_1741159449741",
+    "edition_note": "这首诗根据作者审定的抄件刊印。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "2be0eb8af6e58bea55fde160f413be9d04c7c5df19c54736a2694072efc682fe",
+    "downloaded_at": "2026-11-03T13:08:42.262084+00:00"
+  },
+  {
+    "id": "poem-9dea4ff259394d8c87d6a11994480a75",
+    "title": "七绝二首·纪念鲁迅八十寿辰",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六一年",
+    "year": "1961",
+    "text": "博大胆识铁石坚，刀光剑影任翔旋。龙华喋血不眠夜，犹制小诗赋管弦。其二鉴湖越台名士乡，忧忡为国痛断肠。剑南歌接秋风吟，一例氤氲入诗囊。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=9dea4ff259394d8c87d6a11994480a75&base=KRM_1741159449741",
+    "edition_note": "这两首诗根据抄件刊印。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "695fe278dce2326867aa9e65937a21f5271cf11ca0dac973276dfd59f903226b",
+    "downloaded_at": "2026-11-03T13:08:43.894818+00:00"
+  },
+  {
+    "id": "poem-ee29e2d18fa148f1b22047786fbdeeaa",
+    "title": "杂言诗·八连颂",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六三年八月一 日",
+    "year": "1963",
+    "text": "好八连，天下传。为什么？意志坚。为人民，几十年。拒腐蚀，永不沾。因此叫，好八连。解放军，要学习。全军民，要自立。不怕压，不怕迫。不怕刀，不怕戟。不怕鬼，不怕魅。不怕帝，不帕贼。奇儿女，如松柏。上参天，傲霜雪。纪律好，如坚壁。军事好，如霹雳。政治好，称第一。思想好，能分析。分析好，大有益。益在哪？团结力。军民团结如一人，试看天下谁能敌。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=ee29e2d18fa148f1b22047786fbdeeaa&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在一九八二年十二月二十六日《解放军报》。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "c590d77066e7f8b2c167d359f5acd1e13164110284ad425fe2760e3e787e0e4c",
+    "downloaded_at": "2026-11-03T13:08:45.170084+00:00"
+  },
+  {
+    "id": "poem-c2cc24f914964999ad26a9bc4555f508",
+    "title": "念奴娇·井冈山",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六五年五月",
+    "year": "1965",
+    "text": "参天万木，千百里，飞上南天奇岳。故地重来何所见，多了楼台亭阁。五井碑前，黄洋界上，车子飞如跃。江山如画，古代曾云海绿。弹指三十八年，人间变了，似天渊翻覆。犹记当时烽火里，九死一生如昨。独有豪情，天际悬明月，风雷磅礴。一声鸡唱，万怪烟消云落。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=c2cc24f914964999ad26a9bc4555f508&base=KRM_1741159449741",
+    "edition_note": "这首词最早发表在人民文学出版社一九八六年九月版《毛泽东诗词选》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603150908590ba4b59284fc6061dedcc7440475c8456.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=c2cc24f914964999ad26a9bc4555f508&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "2342547c1f779c4c17fe5a66f7836c6fb936638ab3c0b1274c8f5d6673823866",
+    "downloaded_at": "2026-11-03T13:08:46.437148+00:00"
+  },
+  {
+    "id": "poem-53925fdd72304c79bc567e723ba6ab98",
+    "title": "七律·洪都",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六五年",
+    "year": "1965",
+    "text": "到得洪都又一年，祖生击楫至今传。闻鸡久听南天雨，立马曾挥北地鞭。鬓雪飞来成废料，彩云长在有新天。年年后浪推前浪，江草江花处处鲜。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=53925fdd72304c79bc567e723ba6ab98&base=KRM_1741159449741",
+    "edition_note": "这首诗最早发表在一九九四年十二月二十六日《人民日报》。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "5a7fa32426327d78c6e0b9dcdfd457f8c8f014c28762b248f3c7574834a348b1",
+    "downloaded_at": "2026-11-03T13:08:47.726332+00:00"
+  },
+  {
+    "id": "poem-05b879b6acf14a53a9d937a67b68d33f",
+    "title": "七律·有所思",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六六年六月",
+    "year": "1966",
+    "text": "正是神都有事时，又来南国踏芳枝。青松怒向苍天发，败叶纷随碧水驰。一阵风雷惊世界，满街红绿走旌旗。凭阑静听潇潇雨，故国人民有所思。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=05b879b6acf14a53a9d937a67b68d33f&base=KRM_1741159449741",
+    "edition_note": "这首诗根据作者审定的抄件刊印。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/2025060315131204530f3a476cac212f35b6477c5a07f9add.png",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=05b879b6acf14a53a9d937a67b68d33f&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "0f5178db29f3aba81a459339275b6ecdb4b8085e8fc3c18561acd6f65384420c",
+    "downloaded_at": "2026-11-03T13:08:48.986303+00:00"
+  },
+  {
+    "id": "poem-c0ffd3f0fc2d4d9f812844fb5bd8bdb4",
+    "title": "七绝·贾谊",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "",
+    "year": "",
+    "text": "贾生才调世无伦，哭泣情怀吊屈文。梁王堕马寻常事，何用哀伤付一生。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=c0ffd3f0fc2d4d9f812844fb5bd8bdb4&base=KRM_1741159449741",
+    "edition_note": "这首诗根据抄件刊印。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "b086d0858a6cc4b6d96aff99660a714d7abf38ccf9881498f79ceaf55587786c",
+    "downloaded_at": "2026-11-03T13:08:50.209350+00:00"
+  },
+  {
+    "id": "poem-c02a3e9b46f3464d96ca12a317070083",
+    "title": "七律·咏贾谊",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "",
+    "year": "",
+    "text": "少年倜傥廊庙才，壮志未酬事堪哀。胸罗文章兵百万，胆照华国树千台。雄英无计倾圣主，高节终竟受疑猜。千古同惜长沙傅，空白汨罗步尘埃。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=c02a3e9b46f3464d96ca12a317070083&base=KRM_1741159449741",
+    "edition_note": "这首诗根据抄件刊印。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "68ae2df639303c529a291186f1c08589d62e278700252d67159941336168c1e2",
+    "downloaded_at": "2026-11-03T13:08:51.469376+00:00"
+  },
+  {
+    "id": "poem-ded1f253a66b4f95b8dab3ba1c7b9a44",
+    "title": "十六字令三首·其二",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三四年到一九三五年",
+    "year": "1934",
+    "text": "山，快马加鞭未下鞍。惊回首，离天三尺三。其二山，倒海翻江卷巨澜。奔腾急，万马战犹酣。其三山，刺破青天锷未残。天欲堕，赖以拄其间。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=ded1f253a66b4f95b8dab3ba1c7b9a44&base=KRM_1741159449741",
+    "edition_note": "这三首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113513887b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=ded1f253a66b4f95b8dab3ba1c7b9a44&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "612ceff457049eeab87077fd9bf435a7f9495b94c69c36c48e1315742e6eaa87",
+    "downloaded_at": "2026-11-03T13:08:52.746633+00:00"
+  },
+  {
+    "id": "poem-baf91397e7f745279eb2ada7b754a498",
+    "title": "十六字令三首·其三",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九三四年到一九三五年",
+    "year": "1934",
+    "text": "山，快马加鞭未下鞍。惊回首，离天三尺三。其二山，倒海翻江卷巨澜。奔腾急，万马战犹酣。其三山，刺破青天锷未残。天欲堕，赖以拄其间。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=baf91397e7f745279eb2ada7b754a498&base=KRM_1741159449741",
+    "edition_note": "这三首词最早发表在《诗刊》 一九五七年一月号。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113513887b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=baf91397e7f745279eb2ada7b754a498&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "612ceff457049eeab87077fd9bf435a7f9495b94c69c36c48e1315742e6eaa87",
+    "downloaded_at": "2026-11-03T13:08:54.007510+00:00"
+  },
+  {
+    "id": "poem-def8b573e5954e17b12dddea79738568",
+    "title": "七绝二首·纪念鲁迅八十寿辰（其二）",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九六一年",
+    "year": "1961",
+    "text": "博大胆识铁石坚，刀光剑影任翔旋。龙华喋血不眠夜，犹制小诗赋管弦。其二鉴湖越台名士乡，忧忡为国痛断肠。剑南歌接秋风吟，一例氤氲入诗囊。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=def8b573e5954e17b12dddea79738568&base=KRM_1741159449741",
+    "edition_note": "这两首诗根据抄件刊印。",
+    "artwork": [],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "695fe278dce2326867aa9e65937a21f5271cf11ca0dac973276dfd59f903226b",
+    "downloaded_at": "2026-11-03T13:08:55.311220+00:00"
+  },
+  {
+    "id": "poem-7b6f6bed4c2e4cb3b98c7bc6779e2a94",
+    "title": "七律二首·送瘟神（其二）",
+    "author": "毛泽东",
+    "kind": "诗词",
+    "date": "一九五八年七月一日",
+    "year": "1958",
+    "text": "读六月三十日《人民日报》，余江县消灭了血吸虫。浮想联翩，夜不能寐。微风拂煦，旭日临窗。遥望南天，欣然命笔。绿水青山枉自多，华佗无奈小虫何！千村薜荔人遗矢，万户萧疏鬼唱歌。坐地日行八万里，巡天遥看一千河。牛郎欲问瘟神事，一样悲欢逐逝波。其二春风杨柳万千条，六亿神州尽舜尧。红雨随心翻作浪，青山着意化为桥。天连五岭银锄落，地动三河铁臂摇。借问瘟君欲何往，纸船明烛照天烧。",
+    "source_name": "毛泽东文献数字资源平台",
+    "source_url": "https://www.dlmzd.net/detail-poem?guid=7b6f6bed4c2e4cb3b98c7bc6779e2a94&base=KRM_1741159449741",
+    "edition_note": "这两首诗最早发表在一九五八年十月三日《人民日报》。",
+    "artwork": [
+      {
+        "url": "https://www.dlmzd.net/miniocnki/2025/06/03/20250603113239044377e9f56e387b64f3de7f7111723fa20.gif",
+        "label": "平台配套书法",
+        "source_url": "https://www.dlmzd.net/detail-poem?guid=7b6f6bed4c2e4cb3b98c7bc6779e2a94&base=KRM_1741159449741"
+      }
+    ],
+    "author_basis": "平台 AUTHOR 字段为毛泽东；仅提取 MFULLTEXT，排除注释和鉴赏。",
+    "sha256": "20dc889e9708194e93f241f6686aa2dcb5d59511e37c1a7ec250a71e1961489d",
+    "downloaded_at": "2026-11-03T13:08:56.582474+00:00"
+  }
+]

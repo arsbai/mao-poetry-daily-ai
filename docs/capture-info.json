@@ -1,0 +1,138 @@
+{
+  "application": "向东",
+  "project": "毛泽东诗词：每日一句/AI寻句",
+  "version": "1.1",
+  "version_code": 2,
+  "captured_on": "2026-11-04",
+  "device": "Android Emulator, AOSP x86_64",
+  "android": "15",
+  "api_level": 35,
+  "density_dpi": 420,
+  "capture_method": "Unmodified Android framebuffer PNG (adb screencap)",
+  "model_key_configured": false,
+  "search_mode": "本地原文检索",
+  "lockscreen_clock_style": "系统紧凑时钟；测试设备配置，应用不改变时钟设置",
+  "verified_interactions": [
+    "首页与横排日期",
+    "原文检索及诗词筛选",
+    "原典搜索",
+    "收藏",
+    "整首诗与著作阅读",
+    "书法放大",
+    "设置页",
+    "组件系统添加与实际显示",
+    "点击组件打开对应原诗",
+    "锁屏预览与应用；重启后锁屏壁纸仍保留"
+  ],
+  "remaining_device_checks": [
+    "不同厂商桌面与锁屏",
+    "真机组件缩放及长期定时刷新",
+    "真实模型服务调用",
+    "经过实际时间的后台每日任务"
+  ],
+  "apk_sha256": "c56aafb2b6c8dd1b7a0b2c2e77c71fedcf646940fe1f341c3cfb0c22dcfd0b71",
+  "screenshots": [
+    {
+      "file": "01-home.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "ada8cb930c525d150b69c9736fb2a5bb018b0d24de54dd7b8128d06e76979d1c"
+    },
+    {
+      "file": "02-search-input.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "893120a699d59773f2b508e8777ce6642ba6cb1c0aa2b4582089e4816ff87fba"
+    },
+    {
+      "file": "03-search-difficulties.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "8fada46d0db83c9af6a2d02779c60855b934c9c44d7c64406bbfc7629a2ce56d"
+    },
+    {
+      "file": "04-search-victory.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "f62ad3e5715a12bb45848b1ed8eb484914b24e733c1a9c876e06fc3c46d50ffb"
+    },
+    {
+      "file": "05-library.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "f212f6ea5164bf8a31d8d84baf9540028c76644e2f6f14d9262363233e605c10"
+    },
+    {
+      "file": "06-library-search.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "690c087efe482a8457745757112caa3d217e9c3291bb50923a7b277b3e776ad0"
+    },
+    {
+      "file": "07-favorites.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "f15041f97c772f59c56fc184d4d23437caeb1f454e81b667d726f0d22c92e2f6"
+    },
+    {
+      "file": "08-poem-reader.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "5a82916f4fae0d8f0beca56a97ef50f5ecfb95fba8f545c5bf3a27e98badcc7e"
+    },
+    {
+      "file": "09-prose-reader.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "d545ab34d846e20ad7aa8fe362558bfe66e992a3babfaf94b806cbe2e07b37c0"
+    },
+    {
+      "file": "10-calligraphy.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "68a9d602c56fa4096091a99d686e94079a908b72f35e9d7e39a3b559d459bb27"
+    },
+    {
+      "file": "11-settings-model.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "89bb5a53436b8664a33a0dc4a010c7523b09f98c46c7cf35223205802923b7c4"
+    },
+    {
+      "file": "12-settings-sync.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "59a87bdc66233ad4bbb228e5802b18a238a5e960eeebd8ed6cd4931677d4afa4"
+    },
+    {
+      "file": "13-settings-display.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "6696340564d11e4592148c49f9a520c6c6d5512d0c38d92c70611f3db0caf042"
+    },
+    {
+      "file": "14-widget-add.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "26df493f59b9839eebd9329757763b7a874b65856061cba8b5796dd2c099d8e8"
+    },
+    {
+      "file": "15-widget-home.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "14ff52fce3ac1162f8e1d2a3f244b09bea33141cf7e203cc222e6aae0e317d25"
+    },
+    {
+      "file": "16-lockscreen-preview.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "7141c1f941c2f822f2027ead5073a8130c56134756e6870c5c66b2edef809ef2"
+    },
+    {
+      "file": "17-lockscreen.png",
+      "width": 1080,
+      "height": 2400,
+      "sha256": "15ef35a0002462e44ba3155bd1ff8052a194bf2221d86fc64a92b1b3a5c30f03"
+    }
+  ]
+}
